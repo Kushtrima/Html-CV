@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kushtrim Arifi | CV</title>
+</head>
+<body>
+
+    <table border="1" width="0" align=""> 
+         
+        <tr>
+            <td colspan="3">
+            <img src="img/KushtrimArifi.jpg" width="200" > 
+        </td align="top">
+        <th><h1>Kushtrim Arifi</h1> 
+            <h5>Graphic designer </h5>
+            <br>
+            Gjilan - Kosove
+            <br>
+        26.09.1985
+        </th>
+        </tr>
+        </th>
+        
+    </table>
+<br>
+    <table border="1" width="800" > 
+          <tr>
+           <td colspan="3" align="left">
+           <ul>
+            <h3>Work experience</h3>
+            <li> 2009 - 2018 | INFINITdizajn, CEO.</li>
+            <li> 2018 - 2022 | Marketing CH, UX lead designer.</li>
+            <li>2019 - 2022 | Vertigoagency, Creative director.</li>
+           </ul>
+        </td>
+        </tr>
+
+        <table border="1" width="800" > 
+            <tr>
+             <td colspan="3" align="left">
+             <ul>
+              <h3>Education</h3>
+              <li> 2015- 2018  | <b>Bsc</b> degree in Psychology - UP </li>
+              <li> 2020 - 2022 | <b>Msc</b> Clinical Psychology - AAB University </li>
+              <li> 2022 - 2022 | <b>Bootcamp</b> - Online training sesson - Ylber Veliu</li>
+             </ul>
+          </td>
+          </tr>
+          <br>
+
+          <table border="1" width="800" > 
+            <tr>
+             <td colspan="3" align="left">
+             <ol>
+              <h3>Language</h3>
+              <li> C1 - Albaninan, Native Language </li>
+              <li> B2 - English </li>
+              <li> B2 - Serbian </li>
+              <li> A1 - German </li>
+             </ol>
+          </td>
+          </tr>
+    <br>
+
+    <table border="1" width="800" > 
+        <tr>
+         <td colspan="3" align="left">
+         <ol>
+          <h3>Software skills</h3>
+          <input type="range" value="90">
+          <li> Adobe Illustrator - 90% </li>
+<br>
+          <input type="range" value="90">
+          <li> Adobe Photoshop - 90%</li>
+          <br>
+          <input type="range" value="60">
+          <li> Adobe Premier - 60% </li>
+          <br>
+          <input type="range" value="85">
+          <li> Figma UX - 85%</li>
+          <br>
+          <input type="range" value="70">
+          <li> Wordpress - 70%</li>
+          <br>
+          <input type="range" value="10">
+          <li> Html  - 10% </li>
+
+
+         </ol>
+      </td>
+      </tr>
+<br>
+
+</table>
+<br>
+<pre>
+   <b>Kontakti</b> 
+
+   <b>Tel:</b>                        <b>E-mail:</b>                                <b>Adresa:</b>
+   +383 49 210 999             kushtrim.m.arifi@gmail.com             Gjilan / Kosove
+</pre>
+</body>
+</html>
