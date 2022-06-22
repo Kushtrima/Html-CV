@@ -15,17 +15,15 @@
             <img src="img/KushtrimArifi.jpg" width="200" > 
         </td align="top">
         <th><h1>Kushtrim Arifi</h1> 
-            <h5>Graphic designer </h5>
-            <br>
-            Gjilan - Kosove
-            <br>
-        26.09.1985
+            <h5>UX designer  </h5>
+       
         </th>
         </tr>
         </th>
-        
+       
     </table>
-<br>
+
+
     <table border="1" width="800" > 
           <tr>
            <td colspan="3" align="left">
@@ -70,31 +68,45 @@
          <td colspan="3" align="left">
          <ol>
           <h3>Software skills</h3>
-          <input type="range" value="90">
-          <li> Adobe Illustrator - 90% </li>
-<br>
-          <input type="range" value="90">
-          <li> Adobe Photoshop - 90%</li>
-          <br>
-          <input type="range" value="60">
-          <li> Adobe Premier - 60% </li>
-          <br>
-          <input type="range" value="85">
-          <li> Figma UX - 85%</li>
-          <br>
-          <input type="range" value="70">
-          <li> Wordpress - 70%</li>
-          <br>
-          <input type="range" value="10">
-          <li> Html  - 10% </li>
+          
+         <li>Adobe Ilustrator</li>
+          <progress value="90" max="100"></progress> 
 
+          <li>Adobe Photoshop</li>
+          <progress value="80" max="100"></progress> 
 
-         </ol>
-      </td>
+          <li>Adobe Premiere</li>
+          <progress value="50" max="100"></progress> 
+
+          <li>Figma</li>
+          <progress value="90" max="100"></progress> 
+
+          <li>Wordpress & Elementor</li>
+          <progress value="75" max="100"></progress> 
+
+          <li>Html & Css</li>
+          <progress value="10" max="100"></progress> 
+
+        </td>
       </tr>
 <br>
 
 </table>
+<br> <br
+<table border="1" width="800" > 
+      <tr>
+       <td colspan="3" align="left">
+       <ul>
+        <h3>Hobbies and other skills</h3>
+        <li>Time to time - consultant Psychologist (free charge)</li>
+        <li> Constant book reader - in Kindle or physical book.</li>
+        <li> My favorite hobbie - Astro physic and theorical physic</li>
+        <li> Daily physical routine - medium training</li>
+        <li> Yoga - daily (15 min) </li>
+       </ul>
+    </td>
+    </tr>
+<hr>
 <br>
 <pre>
    <b>Kontakti</b> 
